@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\de-Angelo\\source\\repos\\Role Copier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B66A8510-45D1-4B23-AE09-4FDA0F27378E}|Role Copier\\Role Copier.csproj|c:\\users\\de-angelo\\source\\repos\\role copier\\role copier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B66A8510-45D1-4B23-AE09-4FDA0F27378E}|Role Copier\\Role Copier.csproj|solutionrelative:role copier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66A8510-45D1-4B23-AE09-4FDA0F27378E}|Role Copier\\Role Copier.csproj|c:\\users\\de-angelo\\source\\repos\\role copier\\role copier\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66A8510-45D1-4B23-AE09-4FDA0F27378E}|Role Copier\\Role Copier.csproj|solutionrelative:role copier\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66A8510-45D1-4B23-AE09-4FDA0F27378E}|Role Copier\\Role Copier.csproj|c:\\users\\de-angelo\\source\\repos\\role copier\\role copier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66A8510-45D1-4B23-AE09-4FDA0F27378E}|Role Copier\\Role Copier.csproj|solutionrelative:role copier\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B66A8510-45D1-4B23-AE09-4FDA0F27378E}|Role Copier\\Role Copier.csproj|c:\\users\\de-angelo\\source\\repos\\role copier\\role copier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B66A8510-45D1-4B23-AE09-4FDA0F27378E}|Role Copier\\Role Copier.csproj|solutionrelative:role copier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\de-Angelo\\source\\repos\\Role Copier\\Role Copier\\Program.cs",
+              "RelativeDocumentMoniker": "Role Copier\\Program.cs",
+              "ToolTip": "C:\\Users\\de-Angelo\\source\\repos\\Role Copier\\Role Copier\\Program.cs",
+              "RelativeToolTip": "Role Copier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:58:47.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\de-Angelo\\source\\repos\\Role Copier\\Role Copier\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Role Copier\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\de-Angelo\\source\\repos\\Role Copier\\Role Copier\\Form1.Designer.cs",
+              "RelativeToolTip": "Role Copier\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:57:02.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\de-Angelo\\source\\repos\\Role Copier\\Role Copier\\Form1.cs",
+              "RelativeDocumentMoniker": "Role Copier\\Form1.cs",
+              "ToolTip": "C:\\Users\\de-Angelo\\source\\repos\\Role Copier\\Role Copier\\Form1.cs",
+              "RelativeToolTip": "Role Copier\\Form1.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwHEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:56:26.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\de-Angelo\\source\\repos\\Role Copier\\Role Copier\\Form1.cs",
+              "RelativeDocumentMoniker": "Role Copier\\Form1.cs",
+              "ToolTip": "C:\\Users\\de-Angelo\\source\\repos\\Role Copier\\Role Copier\\Form1.cs [Design]",
+              "RelativeToolTip": "Role Copier\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T09:56:14.004Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

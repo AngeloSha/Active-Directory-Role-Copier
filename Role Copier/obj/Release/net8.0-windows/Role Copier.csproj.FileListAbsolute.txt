@@ -1,0 +1,16 @@
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\bin\Release\net8.0-windows\Role Copier.exe
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\bin\Release\net8.0-windows\Role Copier.deps.json
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\bin\Release\net8.0-windows\Role Copier.runtimeconfig.json
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\bin\Release\net8.0-windows\Role Copier.dll
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\bin\Release\net8.0-windows\Role Copier.pdb
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\ADRoleCopier.Form1.resources
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\Role Copier.csproj.GenerateResource.cache
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\Role Copier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\Role Copier.AssemblyInfoInputs.cache
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\Role Copier.AssemblyInfo.cs
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\Role Copier.csproj.CoreCompileInputs.cache
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\Role Copier.dll
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\refint\Role Copier.dll
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\Role Copier.pdb
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\Role Copier.genruntimeconfig.cache
+C:\Users\de-Angelo\source\repos\Role Copier\Role Copier\obj\Release\net8.0-windows\ref\Role Copier.dll
